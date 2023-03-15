@@ -49,3 +49,5 @@
 <kbd><img src="Screenshots/006.png" /></kbd>
 <kbd><img src="Screenshots/007.png" /></kbd>
 <kbd><img src="Screenshots/008.png" /></kbd>
+
+***С уважением ко всем пользователям 1С.***
