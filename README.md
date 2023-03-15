@@ -40,3 +40,12 @@
 - и тп и мн.др.
 
 ***Приветствуются все пожелания и предложения по работе системы >>> :envelope:***
+
+<kbd><img src="Screenshots/001.png" /></kbd>
+<kbd><img src="Screenshots/002.png" /></kbd>
+<kbd><img src="Screenshots/003.png" /></kbd>
+<kbd><img src="Screenshots/004.png" /></kbd>
+<kbd><img src="Screenshots/005.png" /></kbd>
+<kbd><img src="Screenshots/006.png" /></kbd>
+<kbd><img src="Screenshots/007.png" /></kbd>
+<kbd><img src="Screenshots/008.png" /></kbd>
